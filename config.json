@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfync",
+        "uuid": 13012276,
+        "checksum": "el1mzc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
